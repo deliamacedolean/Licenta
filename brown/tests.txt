@@ -1,0 +1,15 @@
+ca44 news
+cb27 editorial
+cc17 reviews
+cd17 religion
+ce36 hobbies
+cf48 lore
+cg75 belles_lettres
+ch30 government
+cj80 learned
+ck29 fiction
+cl24 mystery
+cm06 science_fiction
+cn29 adventure
+cp29 romance
+cr09 humor
